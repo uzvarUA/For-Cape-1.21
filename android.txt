@@ -1,0 +1,4 @@
+https://play.google.com/store/apps/details?id=com.nisha.skin_pack_maker_minecraft
+У android 14.8.8 Google забрали доступ Android/data/com.mojang.minecraftpe/files/games/com.mojang/skin_packs
+Для Atlas Client
+Android/data/net.atlasclient.atlaspe/files/games/com.mojang/skin_packs
