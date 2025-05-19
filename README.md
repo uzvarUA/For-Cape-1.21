@@ -12,3 +12,5 @@
 > Повинен бути архітектура процесора `arm64-v8a` <br>
 > Повинен бути *android 9.0+* <br>
 ***
+## Skin Pack Maker for Minecraft
+![](images/Screenshot_20250519_114611_Skin Pack Maker for Minecraft PE.jpg)
