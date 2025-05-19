@@ -13,4 +13,4 @@
 > Повинен бути *android 9.0+* <br>
 ***
 ## Skin Pack Maker for Minecraft
-![](images/Screenshot_20250519_114611_Skin Pack Maker for Minecraft PE.jpg)
+![](images/Screenshot_20250519_114611_Skin_Pack_Maker_for_Minecraft_PE.jpg)
