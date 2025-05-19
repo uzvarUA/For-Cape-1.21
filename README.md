@@ -5,7 +5,7 @@
 ## Зміст
 * [Android](#android)
 * [Skin Pack Maker for Minecraft](#skin-pack-maker-for-minecraft)
-* [Атлас Клієнт](#атлас-кліент)
+* [Атлас Клієнт](#атлас-клієнт)
 * [Minecraft Bedrock Edition v1.21.72](#minecraft-bedrock-edition-v12172)
 * [ПК](#пк)
 ***
