@@ -24,3 +24,18 @@
 ![](images/Screenshot_20250519_114611_Skin_Pack_Maker_for_Minecraft_PE.jpg)
 ## Атлас Клієнт
 1. Переходимо по `Android/data/net.atlasclient.atlaspe/files/games/com.mojang/skin_packs`
+2. У мене папка `UzvarUA` (при створенні свої скіни у `Skin Pack Maker for Minecraft`). Треба копіювати цю папку `UzvarUA` до папки `Download`.
+3. У цій папці `UzvarUA видалити все крім файла `manifest.json`
+4. Дальше добавлаєш із папки `Pack` до папки `UzvarUA`
+5. Дальше створити `UzvarUA.zip`
+6. Дальше переходимо до [комп'ютера](#пк)
+***
+## Minecraft Bedrock Edition v1.21.72
+1. Переходимо по `Android/data/com.mojang.minecraftpe/files/games/com.mojang/skin_packs`
+2. У мене папка `UzvarUA` (при створенні свої скіни у `Skin Pack Maker for Minecraft`). Треба копіювати цю папку `UzvarUA` до папки `Download`.
+3. У цій папці `UzvarUA видалити все крім файла `manifest.json`
+4. Дальше добавлаєш із папки `Pack` до папки `UzvarUA`
+5. Дальше створити `UzvarUA.zip`
+6. Дальше переходимо до [комп'ютера](#пк)
+## ПК
+Шифруємо файли на комп'ютері.
