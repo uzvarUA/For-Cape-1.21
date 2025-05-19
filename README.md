@@ -3,6 +3,7 @@
 > Google забрали доступ "Параметри розробника" (Android 16.0+) <br>
 ***
 ## Зміст
+* [Skin Pack Maker for Minecraft](#skin-pack-maker-for-minecraft)
 * [Атлас Клієнт](#атлас-кліент)
 * [Minecraft Bedrock Edition v1.21.72](#minecraft-bedrock-edition-v12172)
 * [ПК](#пк)
